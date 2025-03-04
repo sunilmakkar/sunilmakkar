@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilmakkar
 - 👀 I’m interested in working with data & machine learning
-- 🌱 I’m currently learning Python, SQL, & Data Engineering
+- 🌱 I’m currently learning Python, SQL, & Data Science
 
 
 <!---
