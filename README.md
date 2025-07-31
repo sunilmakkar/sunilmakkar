@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @sunilmakkar
-- 👀 I’m interested in working with data & machine learning
-- 🌱 I’m currently learning Python, SQL, & Data Science
+🧠 I’m a software developer who loves building backend systems and working with data.
+
+💻 Currently focused on Python, SQL, and backend development.
+
+🚀 Open to work — looking for backend engineering opportunities.
+
+🔮 My long-term goal is to grow into AI engineering and build intelligent systems that make life easier.
 
 
 <!---
