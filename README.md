@@ -6,6 +6,9 @@
 
 🔮 My long-term goal is to grow into AI engineering and build intelligent systems that make life easier.
 
+Check out my blog: https://medium.com/@sunil.makkar97
+Where I document my learning process.
+
 
 <!---
 sunilmakkar/sunilmakkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
