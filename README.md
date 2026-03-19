@@ -1,6 +1,7 @@
 👋 **Hi, I’m Sunil! | Data & Analytics Engineer**
 
 🔧 **What I’m Building** 
+
 I bridge the gap between raw data and actionable insights. My focus is on **Medallion Architecture**, modular data modeling with **dbt**, and building the infrastructure that powers **AI/LLM applications**. While I am a fan of the Modern Data Stack and primarily work with **batch pipelines**, I love getting my hands dirty with **real-time and near real-time systems**, from high-frequency pollers to event-driven streaming.
 
 
